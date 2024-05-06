@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SocialNetworkTest</string>
+    <string name="screen1">Chào mừng bạn đến với ứng dụng</string>
+    <string name="screen3">Bên cạnh đó bạn có thể nhờ giải quyết các vấn đề của bản thân bằng cách tạo những bài viết</string>
+    <string name="screen4">Bên cạnh đó bạn tìm kiếm được những người bạn có cùng ý tưởng với bản thân</string>
+    <string name="explore">Bạn còn chần chờ gì nữa hãy khám phá ngay thôi</string>
+    <string name="title1">WELCOME TO</string>
+    <string name="title3">CREATE NEW POST</string>
+    <string name="title4">MAKE NEW FRIENDS</string>
+</resources>
